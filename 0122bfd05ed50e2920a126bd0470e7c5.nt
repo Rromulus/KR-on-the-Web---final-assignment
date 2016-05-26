@@ -1,0 +1,1276 @@
+<http://miuras.inf.um.es/ogolod/ontology/A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/A> <http://www.w3.org/2000/01/rdf-schema#comment> "RNA processing and modification" .
+<http://miuras.inf.um.es/ogolod/ontology/A> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://miuras.inf.um.es/ogolod/ontology/A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/ontology/B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/B> <http://www.w3.org/2000/01/rdf-schema#comment> "Charomatin structure and dynamics" .
+<http://miuras.inf.um.es/ogolod/ontology/B> <http://www.w3.org/2000/01/rdf-schema#label> "B" .
+<http://miuras.inf.um.es/ogolod/ontology/B> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/ontology/Cellular_process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Cellular_process> <http://www.w3.org/2000/01/rdf-schema#comment> "Cellular process" .
+<http://miuras.inf.um.es/ogolod/ontology/Cellular_process> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> .
+<http://miuras.inf.um.es/ogolod/ontology/ClusterOrthologs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/ClusterOrthologs> <http://www.w3.org/2000/01/rdf-schema#comment> "Cluster of Orthologous genes" .
+<http://miuras.inf.um.es/ogolod/ontology/ClusterOrthologs> <http://www.w3.org/2000/01/rdf-schema#label> "Cluster of Orthologous genes" .
+<http://miuras.inf.um.es/ogolod/ontology/D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/D> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell division and chromosome partitioning" .
+<http://miuras.inf.um.es/ogolod/ontology/D> <http://www.w3.org/2000/01/rdf-schema#label> "D" .
+<http://miuras.inf.um.es/ogolod/ontology/D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/E> <http://www.w3.org/2000/01/rdf-schema#comment> "Amino acid transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/E> <http://www.w3.org/2000/01/rdf-schema#label> "E" .
+<http://miuras.inf.um.es/ogolod/ontology/E> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/ECO_0000000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/F> <http://www.w3.org/2000/01/rdf-schema#comment> "Nucleotide transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/F> <http://www.w3.org/2000/01/rdf-schema#label> "F" .
+<http://miuras.inf.um.es/ogolod/ontology/F> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/G> <http://www.w3.org/2000/01/rdf-schema#comment> "Carbohydrate transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/G> <http://www.w3.org/2000/01/rdf-schema#label> "G" .
+<http://miuras.inf.um.es/ogolod/ontology/G> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0003674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0003674> <http://www.w3.org/2000/01/rdf-schema#comment> "GO molecular function" .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0005575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0005575> <http://www.w3.org/2000/01/rdf-schema#comment> "GO cellular component" .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0008150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/GO_0008150> <http://www.w3.org/2000/01/rdf-schema#comment> "GO biological process" .
+<http://miuras.inf.um.es/ogolod/ontology/Gene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Gene> <http://www.w3.org/2000/01/rdf-schema#comment> "Gene" .
+<http://miuras.inf.um.es/ogolod/ontology/Gene> <http://www.w3.org/2000/01/rdf-schema#label> "Gene" .
+<http://miuras.inf.um.es/ogolod/ontology/Gene> <http://www.w3.org/2002/07/owl#equivalentClass> <http://purl.uniprot.org/core/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> <http://www.w3.org/2000/01/rdf-schema#comment> "Genetic disease from OMIM" .
+<http://miuras.inf.um.es/ogolod/ontology/H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/H> <http://www.w3.org/2000/01/rdf-schema#comment> "Coenzyme metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/H> <http://www.w3.org/2000/01/rdf-schema#label> "H" .
+<http://miuras.inf.um.es/ogolod/ontology/H> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/HP_0000001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/HP_0000001> <http://www.w3.org/2000/01/rdf-schema#label> "HP_0000001" .
+<http://miuras.inf.um.es/ogolod/ontology/I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/I> <http://www.w3.org/2000/01/rdf-schema#comment> "Lipid metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/I> <http://www.w3.org/2000/01/rdf-schema#label> "I" .
+<http://miuras.inf.um.es/ogolod/ontology/I> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/Identifier> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/Identifier> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Protein> .
+<http://miuras.inf.um.es/ogolod/ontology/Identifier> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/PubmedArticle> .
+<http://miuras.inf.um.es/ogolod/ontology/Identifier> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> <http://www.w3.org/2000/01/rdf-schema#comment> "Information storage and processing" .
+<http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> .
+<http://miuras.inf.um.es/ogolod/ontology/J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/J> <http://www.w3.org/2000/01/rdf-schema#comment> "Translation, ribosomal structure and biogenesis" .
+<http://miuras.inf.um.es/ogolod/ontology/J> <http://www.w3.org/2000/01/rdf-schema#label> "J" .
+<http://miuras.inf.um.es/ogolod/ontology/J> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/ontology/K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/K> <http://www.w3.org/2000/01/rdf-schema#comment> "Transcription" .
+<http://miuras.inf.um.es/ogolod/ontology/K> <http://www.w3.org/2000/01/rdf-schema#label> "K" .
+<http://miuras.inf.um.es/ogolod/ontology/K> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> <http://www.w3.org/2000/01/rdf-schema#comment> "KOG functional category" .
+<http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> <http://www.w3.org/2000/01/rdf-schema#label> "X" .
+<http://miuras.inf.um.es/ogolod/ontology/L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/L> <http://www.w3.org/2000/01/rdf-schema#comment> "DNA replication, recombination, and repair" .
+<http://miuras.inf.um.es/ogolod/ontology/L> <http://www.w3.org/2000/01/rdf-schema#label> "L" .
+<http://miuras.inf.um.es/ogolod/ontology/L> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/ontology/Location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/Location> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/Location> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<http://miuras.inf.um.es/ogolod/ontology/M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/M> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell envelope biogenesis, outer membrane" .
+<http://miuras.inf.um.es/ogolod/ontology/M> <http://www.w3.org/2000/01/rdf-schema#label> "M" .
+<http://miuras.inf.um.es/ogolod/ontology/M> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/Metabolism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Metabolism> <http://www.w3.org/2000/01/rdf-schema#comment> "Metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/Metabolism> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> .
+<http://miuras.inf.um.es/ogolod/ontology/Method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method> <http://www.w3.org/2000/01/rdf-schema#comment> "Method" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_A> <http://www.w3.org/2000/01/rdf-schema#comment> "In situ DNA-RNA or DNA-DNA annealing" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_A> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_AAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_AAS> <http://www.w3.org/2000/01/rdf-schema#comment> "Deductions from the amino acid sequence of proteins" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_AAS> <http://www.w3.org/2000/01/rdf-schema#label> "AAS" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_AAS> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_C> <http://www.w3.org/2000/01/rdf-schema#comment> "Chromosome mediated gene transfer (CMGT)" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_C> <http://www.w3.org/2000/01/rdf-schema#label> "C" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_C> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Ch> <http://www.w3.org/2000/01/rdf-schema#comment> "Chromosomal change associated with particular phenotype and not proved to represent linkage (Fc), deletion (D), or virus effect (V)" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Ch> <http://www.w3.org/2000/01/rdf-schema#label> "Ch" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Ch> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_D> <http://www.w3.org/2000/01/rdf-schema#comment> "Deletion or dosage mapping (concurrence of chromosomal deletion and phenotypic evidence of hemizygosity), trisomy mapping (presence of three alleles in the case of a highly polymorphic locus), or gene dosage effects (correlation of trisomic state of part or all of a chromosome with 50% more gene product)" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_D> <http://www.w3.org/2000/01/rdf-schema#label> "D" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_D> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_EM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_EM> <http://www.w3.org/2000/01/rdf-schema#comment> "Exclusion mapping" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_EM> <http://www.w3.org/2000/01/rdf-schema#label> "EM" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_EM> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_F> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_F> <http://www.w3.org/2000/01/rdf-schema#label> "F" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_F> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fc> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families, when a chromosomal heteromorphism or rearrangement is one trait" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fc> <http://www.w3.org/2000/01/rdf-schema#label> "Fc" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method_F> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fd> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families, when 1 or both of the linked loci are identified by a DNA polymorphism" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fd> <http://www.w3.org/2000/01/rdf-schema#label> "Fd" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Fd> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method_F> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_H> <http://www.w3.org/2000/01/rdf-schema#comment> "Based on presumed homology" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_H> <http://www.w3.org/2000/01/rdf-schema#label> "H" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_H> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_HS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_HS> <http://www.w3.org/2000/01/rdf-schema#comment> "DNA/cDNA molecular hybridization in solution" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_HS> <http://www.w3.org/2000/01/rdf-schema#label> "HS" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_HS> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_L> <http://www.w3.org/2000/01/rdf-schema#comment> "Lyonization" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_L> <http://www.w3.org/2000/01/rdf-schema#label> "L" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_L> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_LD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_LD> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage disequilibrium" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_LD> <http://www.w3.org/2000/01/rdf-schema#label> "LD" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_LD> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_M> <http://www.w3.org/2000/01/rdf-schema#comment> "Microcell mediated gene transfer (MMGT)" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_M> <http://www.w3.org/2000/01/rdf-schema#label> "M" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_M> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_OT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_OT> <http://www.w3.org/2000/01/rdf-schema#comment> "Ovarian teratoma" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_OT> <http://www.w3.org/2000/01/rdf-schema#label> "OT" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_OT> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Pcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Pcm> <http://www.w3.org/2000/01/rdf-schema#comment> "PCR of microdissected chromosome segments" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Pcm> <http://www.w3.org/2000/01/rdf-schema#label> "Pcm" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Pcm> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Psh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Psh> <http://www.w3.org/2000/01/rdf-schema#comment> "PCR of somatic cell hybrid DNA" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Psh> <http://www.w3.org/2000/01/rdf-schema#label> "Psh" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_Psh> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_R> <http://www.w3.org/2000/01/rdf-schema#comment> "Goss-Harris method of radiation-induced gene segregation" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_R> <http://www.w3.org/2000/01/rdf-schema#label> "R" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_R> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_RE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_RE> <http://www.w3.org/2000/01/rdf-schema#comment> "Restriction endonuclease techniques" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_RE> <http://www.w3.org/2000/01/rdf-schema#label> "RE" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_RE> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REa> <http://www.w3.org/2000/01/rdf-schema#comment> "Combined with somatic cell hybridization" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REa> <http://www.w3.org/2000/01/rdf-schema#label> "REa" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REa> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REb> <http://www.w3.org/2000/01/rdf-schema#comment> "Combined with chromosome sorting" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REb> <http://www.w3.org/2000/01/rdf-schema#label> "REb" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REb> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REc> <http://www.w3.org/2000/01/rdf-schema#comment> "Hybridization of cDNA to genomic fragment" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REc> <http://www.w3.org/2000/01/rdf-schema#label> "REc" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REc> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REf> <http://www.w3.org/2000/01/rdf-schema#comment> "Isolation of gene from genomic DNA" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REf> <http://www.w3.org/2000/01/rdf-schema#label> "REf" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REf> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REl> <http://www.w3.org/2000/01/rdf-schema#comment> "Isolation of gene from chromosome-specific genomic library" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REl> <http://www.w3.org/2000/01/rdf-schema#label> "REl" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REl> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REn> <http://www.w3.org/2000/01/rdf-schema#comment> "Neighbor analysis in restriction fragments" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REn> <http://www.w3.org/2000/01/rdf-schema#label> "REn" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_REn> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_S> <http://www.w3.org/2000/01/rdf-schema#comment> "'Segregation' (cosegregation) of human cellular traits and human chromosomes (or segments of chromosomes) in particular clones from interspecies somatic cell hybrids" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_S> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_S> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_T> <http://www.w3.org/2000/01/rdf-schema#comment> "Telomere-associated chromosome fragmentation (TACT)" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_T> <http://www.w3.org/2000/01/rdf-schema#label> "T" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_T> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_V> <http://www.w3.org/2000/01/rdf-schema#comment> "Induction of microscopically evident chromosomal change by a virus" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_V> <http://www.w3.org/2000/01/rdf-schema#label> "V" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_V> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_X_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#comment> "X-autosome translocation in female with X-linked recessive disorder" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#label> "X/A" .
+<http://miuras.inf.um.es/ogolod/ontology/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/N> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell motility and secretion" .
+<http://miuras.inf.um.es/ogolod/ontology/N> <http://www.w3.org/2000/01/rdf-schema#label> "N" .
+<http://miuras.inf.um.es/ogolod/ontology/N> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/NCBITaxon_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/NCBITaxon_1> <http://www.w3.org/2000/01/rdf-schema#comment> "NCBI biological taxonomy" .
+<http://miuras.inf.um.es/ogolod/ontology/Name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/Name> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/Name> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/Name> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Protein> .
+<http://miuras.inf.um.es/ogolod/ontology/Name> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<http://miuras.inf.um.es/ogolod/ontology/O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/O> <http://www.w3.org/2000/01/rdf-schema#comment> "Posttranslational modification, protein turn over, chaperones" .
+<http://miuras.inf.um.es/ogolod/ontology/O> <http://www.w3.org/2000/01/rdf-schema#label> "O" .
+<http://miuras.inf.um.es/ogolod/ontology/O> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/P> <http://www.w3.org/2000/01/rdf-schema#comment> "Inorganic ion transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/P> <http://www.w3.org/2000/01/rdf-schema#label> "P" .
+<http://miuras.inf.um.es/ogolod/ontology/P> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> <http://www.w3.org/2000/01/rdf-schema#comment> "Poorly characterized" .
+<http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> .
+<http://miuras.inf.um.es/ogolod/ontology/Protein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Protein> <http://www.w3.org/2000/01/rdf-schema#label> "Protein" .
+<http://miuras.inf.um.es/ogolod/ontology/Protein> <http://www.w3.org/2002/07/owl#equivalentClass> <http://purl.uniprot.org/core/Protein> .
+<http://miuras.inf.um.es/ogolod/ontology/PubmedArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/PubmedArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Pubmed article" .
+<http://miuras.inf.um.es/ogolod/ontology/Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Q> <http://www.w3.org/2000/01/rdf-schema#comment> "Secondary metabolites biosynthesis, transport and catabolism" .
+<http://miuras.inf.um.es/ogolod/ontology/Q> <http://www.w3.org/2000/01/rdf-schema#label> "Q" .
+<http://miuras.inf.um.es/ogolod/ontology/Q> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/ontology/R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/R> <http://www.w3.org/2000/01/rdf-schema#comment> "General function prediction only" .
+<http://miuras.inf.um.es/ogolod/ontology/R> <http://www.w3.org/2000/01/rdf-schema#label> "R" .
+<http://miuras.inf.um.es/ogolod/ontology/R> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> .
+<http://miuras.inf.um.es/ogolod/ontology/Resource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/S> <http://www.w3.org/2000/01/rdf-schema#comment> "Function unknown" .
+<http://miuras.inf.um.es/ogolod/ontology/S> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://miuras.inf.um.es/ogolod/ontology/S> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> .
+<http://miuras.inf.um.es/ogolod/ontology/T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/T> <http://www.w3.org/2000/01/rdf-schema#comment> "Signal transduction mechanisms" .
+<http://miuras.inf.um.es/ogolod/ontology/T> <http://www.w3.org/2000/01/rdf-schema#label> "T" .
+<http://miuras.inf.um.es/ogolod/ontology/T> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/U> <http://www.w3.org/2000/01/rdf-schema#comment> "Intracellular trafficking, secretion and vesicular transport" .
+<http://miuras.inf.um.es/ogolod/ontology/U> <http://www.w3.org/2000/01/rdf-schema#label> "U" .
+<http://miuras.inf.um.es/ogolod/ontology/U> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/V> <http://www.w3.org/2000/01/rdf-schema#comment> "Defense mechanisms" .
+<http://miuras.inf.um.es/ogolod/ontology/V> <http://www.w3.org/2000/01/rdf-schema#label> "V" .
+<http://miuras.inf.um.es/ogolod/ontology/V> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/W> <http://www.w3.org/2000/01/rdf-schema#comment> "Extracellular structures" .
+<http://miuras.inf.um.es/ogolod/ontology/W> <http://www.w3.org/2000/01/rdf-schema#label> "W" .
+<http://miuras.inf.um.es/ogolod/ontology/W> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Y> <http://www.w3.org/2000/01/rdf-schema#comment> "Nuclear structure" .
+<http://miuras.inf.um.es/ogolod/ontology/Y> <http://www.w3.org/2000/01/rdf-schema#label> "Y" .
+<http://miuras.inf.um.es/ogolod/ontology/Y> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://miuras.inf.um.es/ogolod/ontology/Z> <http://www.w3.org/2000/01/rdf-schema#comment> "Cytoskeleton" .
+<http://miuras.inf.um.es/ogolod/ontology/Z> <http://www.w3.org/2000/01/rdf-schema#label> "Z" .
+<http://miuras.inf.um.es/ogolod/ontology/Z> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/ontology/causedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/causedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/causedBy> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/causedBy> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://www.obofoundry.org/ro/ro.owl#has_agent> .
+<http://miuras.inf.um.es/ogolod/ontology/connectedTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/connectedTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/connectedTo> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/connectedTo> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/fromSpecies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/fromSpecies> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/fromSpecies> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/NCBITaxon_1> .
+<http://miuras.inf.um.es/ogolod/ontology/hasFunctionalCategory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasFunctionalCategory> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/hasFunctionalCategory> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/KOGFunctionalCategory> .
+<http://miuras.inf.um.es/ogolod/ontology/hasMethod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasMethod> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasMethod> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/ontology/hasOrtholog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasOrtholog> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/ClusterOrthologs> .
+<http://miuras.inf.um.es/ogolod/ontology/hasOrtholog> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> <http://www.w3.org/2000/01/rdf-schema#label> "has Phenotype" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2002/07/owl#topObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000006> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/2000/01/rdf-schema#label> "EXP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from experiment evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#comment> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#label> "IC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#label> "located with Inferred by Curator evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IC> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000186> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/2000/01/rdf-schema#label> "ICE"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from individual clinical experience evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICE> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000084> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/2000/01/rdf-schema#label> "ICL"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genome cluster evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICL> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000063> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/2000/01/rdf-schema#label> "ICS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from compositional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ICS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000002> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/2000/01/rdf-schema#label> "IDA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from direct assay evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDA> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000067> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/2000/01/rdf-schema#label> "IDS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from developmental similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IDS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000067> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/2000/01/rdf-schema#label> "IEA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from electronical annotation evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEA> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000008> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/2000/01/rdf-schema#label> "IEP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from expression pattern evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IEP> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000177> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/2000/01/rdf-schema#label> "IGC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genomic context evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000075> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/2000/01/rdf-schema#label> "IGES"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from gene expression similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGES> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000011> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/2000/01/rdf-schema#label> "IGI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genetic interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGI> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000051> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/2000/01/rdf-schema#label> "IGTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genetic similary evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000015> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/2000/01/rdf-schema#label> "IMP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from mutant phenotype evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMP> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000071> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/2000/01/rdf-schema#label> "IMS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from morphological similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IMS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000080> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/2000/01/rdf-schema#label> "IP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from phylogeny evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IP> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000021> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/2000/01/rdf-schema#label> "IPI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from physical interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPI> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000060> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/2000/01/rdf-schema#label> "IPS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from positional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000057> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/2000/01/rdf-schema#label> "IPTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from  phenotype similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IPTS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000041> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/2000/01/rdf-schema#label> "IS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000057> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/2000/01/rdf-schema#label> "ISA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence alignament evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISA> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000063> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/2000/01/rdf-schema#label> "ISM"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from source model evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISM> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000060> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/2000/01/rdf-schema#label> "ISO"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence orthology evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISO> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000088> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/2000/01/rdf-schema#label> "ISR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from system recostruction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISR> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGC> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000027> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/2000/01/rdf-schema#label> "ISS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ISS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IGTS> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000050> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/2000/01/rdf-schema#label> "IVS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from voucher specimen evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_IVS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_EXP> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000034> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/2000/01/rdf-schema#label> "NAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/2000/01/rdf-schema#label> "located with non-traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NAS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000035> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/2000/01/rdf-schema#label> "ND"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/2000/01/rdf-schema#label> "located with no biological data evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_ND> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000037> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/2000/01/rdf-schema#label> "NR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/2000/01/rdf-schema#label> "located with not recorded evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_NR> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000185> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/2000/01/rdf-schema#label> "PCS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from published clinical study evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_PCS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000053> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/2000/01/rdf-schema#label> "RCA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from reviewed computational analysis evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_RCA> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000033> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/2000/01/rdf-schema#label> "TAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/2000/01/rdf-schema#label> "located with Traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/HP_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/hasPhenotype_TAS> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/hasPhenotype> .
+<http://miuras.inf.um.es/ogolod/ontology/hasResource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/hasResource> <http://www.w3.org/2000/01/rdf-schema#domain> <http://purl.uniprot.org/core/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/hasResource> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Resource> .
+<http://miuras.inf.um.es/ogolod/ontology/isTranslatedTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/isTranslatedTo> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/isTranslatedTo> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Protein> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000006> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/2000/01/rdf-schema#label> "EXP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from experiment evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000186> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICE"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from individual clinical experience evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICE_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000084> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICL"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genome cluster evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICL_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000063> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from compositional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ICS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#comment> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#label> "IC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with Inferred by Curator evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IC_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000002> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/2000/01/rdf-schema#label> "IDA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from direct assay evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000067> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IDS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from developmental similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IDS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000067> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/2000/01/rdf-schema#label> "IEA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from electronical annotation evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000008> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IEP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from expression pattern evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IEP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000177> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genomic context evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000075> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGES"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from gene expression similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGES_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000011> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genetic interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGI_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000051> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from genetic similary evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000015> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IMP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from mutant phenotype evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000071> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IMS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from morphological similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IMS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000021> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from physical interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPI_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000060> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from positional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000057> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from  phenotype similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000080> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from phylogeny evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000057> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence alignament evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000063> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISM"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from source model evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISM_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000060> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISO"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence orthology evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISO_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000088> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from system recostruction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISR_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IGC_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000027> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from sequence similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ISS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_IGTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000041> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000050> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IVS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from voucher specimen evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_IVS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/located_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000034> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "NAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with non-traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NAS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000035> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/2000/01/rdf-schema#label> "ND"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with no biological data evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_ND_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000037> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/2000/01/rdf-schema#label> "NR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with not recorded evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_NR_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000185> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/2000/01/rdf-schema#label> "PCS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from published clinical study evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_PCS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000053> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/2000/01/rdf-schema#label> "RCA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with inferred from reviewed computational analysis evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_RCA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000033> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "TAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "located with Traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://miuras.inf.um.es/ogolod/ontology/located_TAS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#located_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000006> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#label> "EXP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from experiment evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000186> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICE"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from individual clinical experience evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICE_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000084> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICL"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from genome cluster evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICL_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000063> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#label> "ICS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from compositional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ICS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#comment> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000001> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#label> "IC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with Inferred by Curator evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IC_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000002> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#label> "IDA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from direct assay evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000067> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IDS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from developmental similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IDS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000067> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#label> "IEA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from electronical annotation evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000008> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IEP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from expression pattern evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IEP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000177> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGC"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from genomic context evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000075> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGES"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from gene expression similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGES_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000011> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from genetic interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGI_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000051> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IGTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from genetic similary evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000015> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IMP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from mutant phenotype evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000071> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IMS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from morphological similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IMS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000021> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPI"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from physical interaction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPI_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000060> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from positional similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000057> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IPTS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from  phenotype similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IPTS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000080> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#label> "IP"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from phylogeny evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IP_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000057> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from sequence alignament evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000063> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISM"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from source model evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISM_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_00000060> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISO"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from sequence orthology evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISO_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000088> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from system recostruction evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISR_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IGC_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000044> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#label> "ISS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from sequence similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ISS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_IGTS_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000041> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from similarity evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000050> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#label> "IVS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from voucher specimen evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_IVS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://miuras.inf.um.es/ogolod/ontology/participates_EXP_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000034> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "NAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with non-traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NAS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000035> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#label> "ND"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with no biological data evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_ND_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000037> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#label> "NR"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with not recorded evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_NR_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000185> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#label> "PCS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from published clinical study evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_PCS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000053> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#label> "RCA"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with inferred from reviewed computational analysis evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_RCA_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://miuras.inf.um.es/ogolod/ontology/evidenceCode> <http://miuras.inf.um.es/ogolod/ontology/ECO_0000033> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "TAS"^^<http://www.w3.org/2001/XMLSchema#ID> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#label> "participates with Traceable author statement evidence in" .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://miuras.inf.um.es/ogolod/ontology/participates_TAS_in> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.obofoundry.org/ro/ro.owl#participates_in> .
+<http://miuras.inf.um.es/ogolod/ontology/relatedPubmedArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://miuras.inf.um.es/ogolod/ontology/relatedPubmedArticle> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/GeneticDisease> .
+<http://miuras.inf.um.es/ogolod/ontology/relatedPubmedArticle> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/PubmedArticle> .
+<http://miuras.inf.um.es/ogolod/ontology/synonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://miuras.inf.um.es/ogolod/ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://miuras.inf.um.es/ogolod/ontology> <http://www.w3.org/2000/01/rdf-schema#comment> "This is an OWL ontology of the OGO system. It consists of the orthologs repositories KOG, Homologene, Inparanoid and OrthoMCL, and also the OMIM genetic diseases and human phenotype ontology." .
+<http://miuras.inf.um.es/ogolod/ontology> <http://www.w3.org/2000/01/rdf-schema#label> "OGO Linked Open Data" .
+<http://miuras.inf.um.es/ogolod/ontology> <http://www.w3.org/2002/07/owl#versionInfo> "1" .
+<http://miuras.inf.um.es/ogolod/resource/A/A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/A> .
+<http://miuras.inf.um.es/ogolod/resource/A/A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/A/A> <http://www.w3.org/2000/01/rdf-schema#comment> "RNA processing and modification" .
+<http://miuras.inf.um.es/ogolod/resource/A/A> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://miuras.inf.um.es/ogolod/resource/B/B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/B> .
+<http://miuras.inf.um.es/ogolod/resource/B/B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/B/B> <http://www.w3.org/2000/01/rdf-schema#comment> "Charomatin structure and dynamics" .
+<http://miuras.inf.um.es/ogolod/resource/B/B> <http://www.w3.org/2000/01/rdf-schema#label> "B" .
+<http://miuras.inf.um.es/ogolod/resource/Cellular_process/Cellular_process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Cellular_process> .
+<http://miuras.inf.um.es/ogolod/resource/Cellular_process/Cellular_process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Cellular_process/Cellular_process> <http://www.w3.org/2000/01/rdf-schema#comment> "Cellular process" .
+<http://miuras.inf.um.es/ogolod/resource/Cellular_process/Cellular_process> <http://www.w3.org/2000/01/rdf-schema#label> "Cellular process" .
+<http://miuras.inf.um.es/ogolod/resource/D/D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/D> .
+<http://miuras.inf.um.es/ogolod/resource/D/D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/D/D> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell division and chromosome partitioning" .
+<http://miuras.inf.um.es/ogolod/resource/D/D> <http://www.w3.org/2000/01/rdf-schema#label> "D" .
+<http://miuras.inf.um.es/ogolod/resource/E/E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/E> .
+<http://miuras.inf.um.es/ogolod/resource/E/E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/E/E> <http://www.w3.org/2000/01/rdf-schema#comment> "Amino acid transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/E/E> <http://www.w3.org/2000/01/rdf-schema#label> "E" .
+<http://miuras.inf.um.es/ogolod/resource/F/F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/F> .
+<http://miuras.inf.um.es/ogolod/resource/F/F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/F/F> <http://www.w3.org/2000/01/rdf-schema#comment> "Nucleotide transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/F/F> <http://www.w3.org/2000/01/rdf-schema#label> "F" .
+<http://miuras.inf.um.es/ogolod/resource/G/G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/G> .
+<http://miuras.inf.um.es/ogolod/resource/G/G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/G/G> <http://www.w3.org/2000/01/rdf-schema#comment> "Carbohydrate transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/G/G> <http://www.w3.org/2000/01/rdf-schema#label> "G" .
+<http://miuras.inf.um.es/ogolod/resource/H/H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/H> .
+<http://miuras.inf.um.es/ogolod/resource/H/H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/H/H> <http://www.w3.org/2000/01/rdf-schema#comment> "Coenzyme metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/H/H> <http://www.w3.org/2000/01/rdf-schema#label> "H" .
+<http://miuras.inf.um.es/ogolod/resource/I/I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/I> .
+<http://miuras.inf.um.es/ogolod/resource/I/I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/I/I> <http://www.w3.org/2000/01/rdf-schema#comment> "Lipid metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/I/I> <http://www.w3.org/2000/01/rdf-schema#label> "I" .
+<http://miuras.inf.um.es/ogolod/resource/Information_storage_and_processing/Information_storage_and_processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Information_storage_and_processing> .
+<http://miuras.inf.um.es/ogolod/resource/Information_storage_and_processing/Information_storage_and_processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Information_storage_and_processing/Information_storage_and_processing> <http://www.w3.org/2000/01/rdf-schema#comment> "Information storage and processing" .
+<http://miuras.inf.um.es/ogolod/resource/Information_storage_and_processing/Information_storage_and_processing> <http://www.w3.org/2000/01/rdf-schema#label> "Information storage and processing" .
+<http://miuras.inf.um.es/ogolod/resource/J/J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/J> .
+<http://miuras.inf.um.es/ogolod/resource/J/J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/J/J> <http://www.w3.org/2000/01/rdf-schema#comment> "Translation, ribosomal structure and biogenesis" .
+<http://miuras.inf.um.es/ogolod/resource/J/J> <http://www.w3.org/2000/01/rdf-schema#label> "J" .
+<http://miuras.inf.um.es/ogolod/resource/K/K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/K> .
+<http://miuras.inf.um.es/ogolod/resource/K/K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/K/K> <http://www.w3.org/2000/01/rdf-schema#comment> "Transcription" .
+<http://miuras.inf.um.es/ogolod/resource/K/K> <http://www.w3.org/2000/01/rdf-schema#label> "K" .
+<http://miuras.inf.um.es/ogolod/resource/L/L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/L> .
+<http://miuras.inf.um.es/ogolod/resource/L/L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/L/L> <http://www.w3.org/2000/01/rdf-schema#comment> "DNA replication, recombination, and repair" .
+<http://miuras.inf.um.es/ogolod/resource/L/L> <http://www.w3.org/2000/01/rdf-schema#label> "L" .
+<http://miuras.inf.um.es/ogolod/resource/M/M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/M> .
+<http://miuras.inf.um.es/ogolod/resource/M/M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/M/M> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell envelope biogenesis, outer membrane" .
+<http://miuras.inf.um.es/ogolod/resource/M/M> <http://www.w3.org/2000/01/rdf-schema#label> "M" .
+<http://miuras.inf.um.es/ogolod/resource/Metabolism/Metabolism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Metabolism> .
+<http://miuras.inf.um.es/ogolod/resource/Metabolism/Metabolism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Metabolism/Metabolism> <http://www.w3.org/2000/01/rdf-schema#comment> "Metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/Metabolism/Metabolism> <http://www.w3.org/2000/01/rdf-schema#label> "Metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/Method/Method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method> .
+<http://miuras.inf.um.es/ogolod/resource/Method/Method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method/Method> <http://www.w3.org/2000/01/rdf-schema#comment> "Method" .
+<http://miuras.inf.um.es/ogolod/resource/Method/Method> <http://www.w3.org/2000/01/rdf-schema#label> "Method" .
+<http://miuras.inf.um.es/ogolod/resource/Method_A/Method_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_A> .
+<http://miuras.inf.um.es/ogolod/resource/Method_A/Method_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_A/Method_A> <http://www.w3.org/2000/01/rdf-schema#comment> "In situ DNA-RNA or DNA-DNA annealing" .
+<http://miuras.inf.um.es/ogolod/resource/Method_A/Method_A> <http://www.w3.org/2000/01/rdf-schema#label> "A" .
+<http://miuras.inf.um.es/ogolod/resource/Method_AAS/Method_AAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_AAS> .
+<http://miuras.inf.um.es/ogolod/resource/Method_AAS/Method_AAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_AAS/Method_AAS> <http://www.w3.org/2000/01/rdf-schema#comment> "Deductions from the amino acid sequence of proteins" .
+<http://miuras.inf.um.es/ogolod/resource/Method_AAS/Method_AAS> <http://www.w3.org/2000/01/rdf-schema#label> "AAS" .
+<http://miuras.inf.um.es/ogolod/resource/Method_C/Method_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_C> .
+<http://miuras.inf.um.es/ogolod/resource/Method_C/Method_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_C/Method_C> <http://www.w3.org/2000/01/rdf-schema#comment> "Chromosome mediated gene transfer (CMGT)" .
+<http://miuras.inf.um.es/ogolod/resource/Method_C/Method_C> <http://www.w3.org/2000/01/rdf-schema#label> "C" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Ch/Method_Ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_Ch> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Ch/Method_Ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Ch/Method_Ch> <http://www.w3.org/2000/01/rdf-schema#comment> "Chromosomal change associated with particular phenotype and not proved to represent linkage (Fc), deletion (D), or virus effect (V)" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Ch/Method_Ch> <http://www.w3.org/2000/01/rdf-schema#label> "Ch" .
+<http://miuras.inf.um.es/ogolod/resource/Method_D/Method_D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_D> .
+<http://miuras.inf.um.es/ogolod/resource/Method_D/Method_D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_D/Method_D> <http://www.w3.org/2000/01/rdf-schema#comment> "Deletion or dosage mapping (concurrence of chromosomal deletion and phenotypic evidence of hemizygosity), trisomy mapping (presence of three alleles in the case of a highly polymorphic locus), or gene dosage effects (correlation of trisomic state of part or all of a chromosome with 50% more gene product)" .
+<http://miuras.inf.um.es/ogolod/resource/Method_D/Method_D> <http://www.w3.org/2000/01/rdf-schema#label> "D" .
+<http://miuras.inf.um.es/ogolod/resource/Method_EM/Method_EM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_EM> .
+<http://miuras.inf.um.es/ogolod/resource/Method_EM/Method_EM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_EM/Method_EM> <http://www.w3.org/2000/01/rdf-schema#comment> "Exclusion mapping" .
+<http://miuras.inf.um.es/ogolod/resource/Method_EM/Method_EM> <http://www.w3.org/2000/01/rdf-schema#label> "EM" .
+<http://miuras.inf.um.es/ogolod/resource/Method_F/Method_F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_F> .
+<http://miuras.inf.um.es/ogolod/resource/Method_F/Method_F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_F/Method_F> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families" .
+<http://miuras.inf.um.es/ogolod/resource/Method_F/Method_F> <http://www.w3.org/2000/01/rdf-schema#label> "F" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fc/Method_Fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_Fc> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fc/Method_Fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fc/Method_Fc> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families, when a chromosomal heteromorphism or rearrangement is one trait" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fc/Method_Fc> <http://www.w3.org/2000/01/rdf-schema#label> "Fc" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fd/Method_Fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_Fd> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fd/Method_Fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fd/Method_Fd> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage study in families, when 1 or both of the linked loci are identified by a DNA polymorphism" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Fd/Method_Fd> <http://www.w3.org/2000/01/rdf-schema#label> "Fd" .
+<http://miuras.inf.um.es/ogolod/resource/Method_H/Method_H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_H> .
+<http://miuras.inf.um.es/ogolod/resource/Method_H/Method_H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_H/Method_H> <http://www.w3.org/2000/01/rdf-schema#comment> "Based on presumed homology" .
+<http://miuras.inf.um.es/ogolod/resource/Method_H/Method_H> <http://www.w3.org/2000/01/rdf-schema#label> "H" .
+<http://miuras.inf.um.es/ogolod/resource/Method_HS/Method_HS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_HS> .
+<http://miuras.inf.um.es/ogolod/resource/Method_HS/Method_HS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_HS/Method_HS> <http://www.w3.org/2000/01/rdf-schema#comment> "DNA/cDNA molecular hybridization in solution" .
+<http://miuras.inf.um.es/ogolod/resource/Method_HS/Method_HS> <http://www.w3.org/2000/01/rdf-schema#label> "HS" .
+<http://miuras.inf.um.es/ogolod/resource/Method_L/Method_L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_L> .
+<http://miuras.inf.um.es/ogolod/resource/Method_L/Method_L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_L/Method_L> <http://www.w3.org/2000/01/rdf-schema#comment> "Lyonization" .
+<http://miuras.inf.um.es/ogolod/resource/Method_L/Method_L> <http://www.w3.org/2000/01/rdf-schema#label> "L" .
+<http://miuras.inf.um.es/ogolod/resource/Method_LD/Method_LD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_LD> .
+<http://miuras.inf.um.es/ogolod/resource/Method_LD/Method_LD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_LD/Method_LD> <http://www.w3.org/2000/01/rdf-schema#comment> "Linkage disequilibrium" .
+<http://miuras.inf.um.es/ogolod/resource/Method_LD/Method_LD> <http://www.w3.org/2000/01/rdf-schema#label> "LD" .
+<http://miuras.inf.um.es/ogolod/resource/Method_M/Method_M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_M> .
+<http://miuras.inf.um.es/ogolod/resource/Method_M/Method_M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_M/Method_M> <http://www.w3.org/2000/01/rdf-schema#comment> "Microcell mediated gene transfer (MMGT)" .
+<http://miuras.inf.um.es/ogolod/resource/Method_M/Method_M> <http://www.w3.org/2000/01/rdf-schema#label> "M" .
+<http://miuras.inf.um.es/ogolod/resource/Method_OT/Method_OT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_OT> .
+<http://miuras.inf.um.es/ogolod/resource/Method_OT/Method_OT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_OT/Method_OT> <http://www.w3.org/2000/01/rdf-schema#comment> "Ovarian teratoma" .
+<http://miuras.inf.um.es/ogolod/resource/Method_OT/Method_OT> <http://www.w3.org/2000/01/rdf-schema#label> "OT" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Pcm/Method_Pcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_Pcm> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Pcm/Method_Pcm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Pcm/Method_Pcm> <http://www.w3.org/2000/01/rdf-schema#comment> "PCR of microdissected chromosome segments" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Pcm/Method_Pcm> <http://www.w3.org/2000/01/rdf-schema#label> "Pcm" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Psh/Method_Psh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_Psh> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Psh/Method_Psh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_Psh/Method_Psh> <http://www.w3.org/2000/01/rdf-schema#comment> "PCR of somatic cell hybrid DNA" .
+<http://miuras.inf.um.es/ogolod/resource/Method_Psh/Method_Psh> <http://www.w3.org/2000/01/rdf-schema#label> "Psh" .
+<http://miuras.inf.um.es/ogolod/resource/Method_R/Method_R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_R> .
+<http://miuras.inf.um.es/ogolod/resource/Method_R/Method_R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_R/Method_R> <http://www.w3.org/2000/01/rdf-schema#comment> "Goss-Harris method of radiation-induced gene segregation" .
+<http://miuras.inf.um.es/ogolod/resource/Method_R/Method_R> <http://www.w3.org/2000/01/rdf-schema#label> "R" .
+<http://miuras.inf.um.es/ogolod/resource/Method_RE/Method_RE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_RE> .
+<http://miuras.inf.um.es/ogolod/resource/Method_RE/Method_RE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_RE/Method_RE> <http://www.w3.org/2000/01/rdf-schema#comment> "Restriction endonuclease techniques" .
+<http://miuras.inf.um.es/ogolod/resource/Method_RE/Method_RE> <http://www.w3.org/2000/01/rdf-schema#label> "RE" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REa/Method_REa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REa> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REa/Method_REa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REa/Method_REa> <http://www.w3.org/2000/01/rdf-schema#comment> "Combined with somatic cell hybridization" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REa/Method_REa> <http://www.w3.org/2000/01/rdf-schema#label> "REa" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REb/Method_REb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REb> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REb/Method_REb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REb/Method_REb> <http://www.w3.org/2000/01/rdf-schema#comment> "Combined with chromosome sorting" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REb/Method_REb> <http://www.w3.org/2000/01/rdf-schema#label> "REb" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REc/Method_REc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REc> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REc/Method_REc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REc/Method_REc> <http://www.w3.org/2000/01/rdf-schema#comment> "Hybridization of cDNA to genomic fragment" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REc/Method_REc> <http://www.w3.org/2000/01/rdf-schema#label> "REc" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REf/Method_REf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REf> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REf/Method_REf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REf/Method_REf> <http://www.w3.org/2000/01/rdf-schema#comment> "Isolation of gene from genomic DNA" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REf/Method_REf> <http://www.w3.org/2000/01/rdf-schema#label> "REf" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REl/Method_REl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REl> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REl/Method_REl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REl/Method_REl> <http://www.w3.org/2000/01/rdf-schema#comment> "Isolation of gene from chromosome-specific genomic library" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REl/Method_REl> <http://www.w3.org/2000/01/rdf-schema#label> "REl" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REn/Method_REn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_REn> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REn/Method_REn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_REn/Method_REn> <http://www.w3.org/2000/01/rdf-schema#comment> "Neighbor analysis in restriction fragments" .
+<http://miuras.inf.um.es/ogolod/resource/Method_REn/Method_REn> <http://www.w3.org/2000/01/rdf-schema#label> "REn" .
+<http://miuras.inf.um.es/ogolod/resource/Method_S/Method_S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_S> .
+<http://miuras.inf.um.es/ogolod/resource/Method_S/Method_S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_S/Method_S> <http://www.w3.org/2000/01/rdf-schema#comment> "'Segregation' (cosegregation) of human cellular traits and human chromosomes (or segments of chromosomes) in particular clones from interspecies somatic cell hybrids" .
+<http://miuras.inf.um.es/ogolod/resource/Method_S/Method_S> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://miuras.inf.um.es/ogolod/resource/Method_T/Method_T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_T> .
+<http://miuras.inf.um.es/ogolod/resource/Method_T/Method_T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_T/Method_T> <http://www.w3.org/2000/01/rdf-schema#comment> "Telomere-associated chromosome fragmentation (TACT)" .
+<http://miuras.inf.um.es/ogolod/resource/Method_T/Method_T> <http://www.w3.org/2000/01/rdf-schema#label> "T" .
+<http://miuras.inf.um.es/ogolod/resource/Method_V/Method_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_V> .
+<http://miuras.inf.um.es/ogolod/resource/Method_V/Method_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_V/Method_V> <http://www.w3.org/2000/01/rdf-schema#comment> "Induction of microscopically evident chromosomal change by a virus" .
+<http://miuras.inf.um.es/ogolod/resource/Method_V/Method_V> <http://www.w3.org/2000/01/rdf-schema#label> "V" .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Method_X_A> .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/N> .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#comment> "Cell motility and secretion" .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#comment> "X-autosome translocation in female with X-linked recessive disorder" .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#label> "N" .
+<http://miuras.inf.um.es/ogolod/resource/Method_X_A/Method_X_A> <http://www.w3.org/2000/01/rdf-schema#label> "X/A" .
+<http://miuras.inf.um.es/ogolod/resource/O/O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/O> .
+<http://miuras.inf.um.es/ogolod/resource/O/O> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/O/O> <http://www.w3.org/2000/01/rdf-schema#comment> "Posttranslational modification, protein turn over, chaperones" .
+<http://miuras.inf.um.es/ogolod/resource/O/O> <http://www.w3.org/2000/01/rdf-schema#label> "O" .
+<http://miuras.inf.um.es/ogolod/resource/P/P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/P> .
+<http://miuras.inf.um.es/ogolod/resource/P/P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/P/P> <http://www.w3.org/2000/01/rdf-schema#comment> "Inorganic ion transport and metabolism" .
+<http://miuras.inf.um.es/ogolod/resource/P/P> <http://www.w3.org/2000/01/rdf-schema#label> "P" .
+<http://miuras.inf.um.es/ogolod/resource/Poorly_characterized/Poorly_characterized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Poorly_characterized> .
+<http://miuras.inf.um.es/ogolod/resource/Poorly_characterized/Poorly_characterized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Poorly_characterized/Poorly_characterized> <http://www.w3.org/2000/01/rdf-schema#comment> "Poorly characterized" .
+<http://miuras.inf.um.es/ogolod/resource/Poorly_characterized/Poorly_characterized> <http://www.w3.org/2000/01/rdf-schema#label> "Poorly characterized" .
+<http://miuras.inf.um.es/ogolod/resource/Q/Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Q> .
+<http://miuras.inf.um.es/ogolod/resource/Q/Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Q/Q> <http://www.w3.org/2000/01/rdf-schema#comment> "Secondary metabolites biosynthesis, transport and catabolism" .
+<http://miuras.inf.um.es/ogolod/resource/Q/Q> <http://www.w3.org/2000/01/rdf-schema#label> "Q" .
+<http://miuras.inf.um.es/ogolod/resource/R/R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/R> .
+<http://miuras.inf.um.es/ogolod/resource/R/R> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/R/R> <http://www.w3.org/2000/01/rdf-schema#comment> "General function prediction only" .
+<http://miuras.inf.um.es/ogolod/resource/R/R> <http://www.w3.org/2000/01/rdf-schema#label> "R" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Homologene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Resource> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Homologene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Homologene> <http://www.w3.org/2000/01/rdf-schema#label> "HOM" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Homologene> <http://www.w3.org/2000/01/rdf-schema#label> "Homologene" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Inparanoid> <http://miuras.inf.um.es/ogolod/ontology/synonym> "INP" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Inparanoid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Resource> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Inparanoid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/Inparanoid> <http://www.w3.org/2000/01/rdf-schema#label> "inparanoid" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/KOG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Resource> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/KOG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/KOG> <http://www.w3.org/2000/01/rdf-schema#label> "KOG" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/OrthoMCL> <http://miuras.inf.um.es/ogolod/ontology/synonym> "ORT" .
+<http://miuras.inf.um.es/ogolod/resource/Resource/OrthoMCL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Resource> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/OrthoMCL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Resource/OrthoMCL> <http://www.w3.org/2000/01/rdf-schema#label> "OrthoMCL" .
+<http://miuras.inf.um.es/ogolod/resource/S/S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/S> .
+<http://miuras.inf.um.es/ogolod/resource/S/S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/S/S> <http://www.w3.org/2000/01/rdf-schema#comment> "Function unknown" .
+<http://miuras.inf.um.es/ogolod/resource/S/S> <http://www.w3.org/2000/01/rdf-schema#label> "S" .
+<http://miuras.inf.um.es/ogolod/resource/T/T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/T> .
+<http://miuras.inf.um.es/ogolod/resource/T/T> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/T/T> <http://www.w3.org/2000/01/rdf-schema#comment> "Signal transduction mechanisms" .
+<http://miuras.inf.um.es/ogolod/resource/T/T> <http://www.w3.org/2000/01/rdf-schema#label> "T" .
+<http://miuras.inf.um.es/ogolod/resource/U/U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/U> .
+<http://miuras.inf.um.es/ogolod/resource/U/U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/U/U> <http://www.w3.org/2000/01/rdf-schema#comment> "Intracellular trafficking, secretion and vesicular transport" .
+<http://miuras.inf.um.es/ogolod/resource/U/U> <http://www.w3.org/2000/01/rdf-schema#label> "U" .
+<http://miuras.inf.um.es/ogolod/resource/V/V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/V> .
+<http://miuras.inf.um.es/ogolod/resource/V/V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/V/V> <http://www.w3.org/2000/01/rdf-schema#comment> "Defense mechanisms" .
+<http://miuras.inf.um.es/ogolod/resource/V/V> <http://www.w3.org/2000/01/rdf-schema#label> "V" .
+<http://miuras.inf.um.es/ogolod/resource/W/W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/W> .
+<http://miuras.inf.um.es/ogolod/resource/W/W> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/W/W> <http://www.w3.org/2000/01/rdf-schema#comment> "Extracellular structures" .
+<http://miuras.inf.um.es/ogolod/resource/W/W> <http://www.w3.org/2000/01/rdf-schema#label> "W" .
+<http://miuras.inf.um.es/ogolod/resource/Y/Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Y> .
+<http://miuras.inf.um.es/ogolod/resource/Y/Y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Y/Y> <http://www.w3.org/2000/01/rdf-schema#comment> "Nuclear structure" .
+<http://miuras.inf.um.es/ogolod/resource/Y/Y> <http://www.w3.org/2000/01/rdf-schema#label> "Y" .
+<http://miuras.inf.um.es/ogolod/resource/Z/Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://miuras.inf.um.es/ogolod/ontology/Z> .
+<http://miuras.inf.um.es/ogolod/resource/Z/Z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://miuras.inf.um.es/ogolod/resource/Z/Z> <http://www.w3.org/2000/01/rdf-schema#comment> "Cytoskeleton" .
+<http://miuras.inf.um.es/ogolod/resource/Z/Z> <http://www.w3.org/2000/01/rdf-schema#label> "Z" .
+<http://purl.uniprot.org/core/Gene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.uniprot.org/core/Protein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.uniprot.org/core/encodedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://purl.uniprot.org/core/encodedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://miuras.inf.um.es/ogolod/ontology/Protein> .
+<http://purl.uniprot.org/core/encodedBy> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/Gene> .
+<http://purl.uniprot.org/core/encodedBy> <http://www.w3.org/2002/07/owl#inverseOf> <http://miuras.inf.um.es/ogolod/ontology/isTranslatedTo> .
+<http://www.obofoundry.org/ro/ro.owl#has_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.obofoundry.org/ro/ro.owl#located_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.obofoundry.org/ro/ro.owl#located_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://purl.uniprot.org/core/Gene> .
+<http://www.obofoundry.org/ro/ro.owl#located_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0005575> .
+<http://www.obofoundry.org/ro/ro.owl#participates_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.obofoundry.org/ro/ro.owl#participates_in> <http://www.w3.org/2000/01/rdf-schema#domain> <http://purl.uniprot.org/core/Gene> .
+<http://www.obofoundry.org/ro/ro.owl#participates_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0003674> .
+<http://www.obofoundry.org/ro/ro.owl#participates_in> <http://www.w3.org/2000/01/rdf-schema#range> <http://miuras.inf.um.es/ogolod/ontology/GO_0008150> .
+<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.w3.org/2002/07/owl#topObjectProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.w3.org/2002/07/owl#versionInfo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
